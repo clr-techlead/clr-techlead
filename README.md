@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Camilo 👋
 
-<!--
-**clr-techlead/clr-techlead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data & BI Analyst** based in Bogotá, Colombia — SQL · Power BI · Python · Advanced Excel
 
-Here are some ideas to get you started:
+I manage SLA and billing reporting for multi-country telecom operations (Chile, Perú, Ecuador, Venezuela), and I like turning manual, error-prone reporting into automated pipelines with a clear business story behind them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 **Featured project:** [SLA logic audit & billing exposure](https://github.com/clr-techlead/telecom-sla-billing-audit) — a Python pipeline that detects a business-logic defect in SLA compliance calculations and quantifies its economic impact (synthetic data).
+
+🧰 **Stack:** SQL Server · Power BI (DAX, Power Query) · Python (pandas) · Advanced Excel · Azure SQL fundamentals
+
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/caleru) · camiloleonrubriche@outlook.com
+
+---
+
+🌐 *Español — Analista de Datos y BI en Bogotá, Colombia. Administro el reporting de SLA y facturación para operaciones de telecomunicaciones en 4 países, y automatizo con Python lo que antes se hacía a mano. Proyecto destacado y contacto arriba.*
