@@ -1,15 +1,24 @@
 # Hi, I'm Camilo 👋
-
-**Data & BI Analyst** based in Bogotá, Colombia — SQL · Power BI · Python · Advanced Excel
-
-I manage SLA and billing reporting for multi-country telecom operations (Chile, Perú, Ecuador, Venezuela), and I like turning manual, error-prone reporting into automated pipelines with a clear business story behind them.
-
-🔍 **Featured project:** [SLA logic audit & billing exposure](https://github.com/clr-techlead/telecom-sla-billing-audit) — a Python pipeline that detects a business-logic defect in SLA compliance calculations and quantifies its economic impact (synthetic data).
-
-🧰 **Stack:** SQL Server · Power BI (DAX, Power Query) · Python (pandas) · Advanced Excel · Azure SQL fundamentals
-
-📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/caleru) · camiloleonrubriche@outlook.com
-
----
-
-🌐 *Español — Analista de Datos y BI en Bogotá, Colombia. Administro el reporting de SLA y facturación para operaciones de telecomunicaciones en 4 países, y automatizo con Python lo que antes se hacía a mano. Proyecto destacado y contacto arriba.*
+## Data & BI Analyst | SQL • Power BI • Python
+Data & BI Analyst based in Bogotá, Colombia, focused on turning manual reporting processes into automated, reliable, and business-oriented solutions.
+I work with SLA and billing reporting for multi-country telecom operations across Chile, Peru, Ecuador, and Venezuela.
+### 🛠️ Technologies
+- SQL Server and Azure SQL
+- Power BI: DAX and Power Query
+- Python: pandas, automation, and testing
+- Advanced Excel
+- React and TypeScript
+### 🚀 Featured Projects
+#### [SLA & Billing Logic Audit](https://github.com/clr-techlead/telecom-sla-billing-audit)
+A Python pipeline that audits SLA compliance rules, detects business-logic defects, and estimates their economic impact using synthetic data.
+#### [Python OOP Reservation System](https://github.com/clr-techlead/python-oop-reservation-system)
+A business reservation system built with Factory, Observer, and Strategy patterns, unit tests, CSV export, custom exceptions, and logging.
+### 📌 Areas of Focus
+- Reporting automation
+- Data quality and validation
+- Business-rule auditing
+- SLA and billing analysis
+- Executive Power BI dashboards
+### 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/caleru)
+- [Email](mailto:camiloleonrubriche@outlook.com)
