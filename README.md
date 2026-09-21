@@ -18,6 +18,9 @@ Based in **Bogotá, Colombia** 🇨🇴
 
 ## Featured projects
 
+### [📈 Cost Optimization BI Dashboard](https://github.com/clr-techlead/cost-optimization-bi-dashboard)
+A Power BI dashboard for identifying cost drivers, budget deviations, and savings opportunities, with narrative-driven storytelling design and native conditional formatting.
+
 ### [🌐 International Transport Mode Explorer](https://github.com/clr-techlead/Sistemas-de-distribucion-en-operaciones-de-comercio-exterior)
 A React and TypeScript logistics explorer for comparing international transport modes, with a Gemini AI assistant, CSV export, automated tests, CI, architecture documentation, and a live Vercel deployment.
 
