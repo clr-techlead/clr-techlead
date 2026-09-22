@@ -30,6 +30,9 @@ A Python pipeline that audits SLA compliance rules, identifies business-logic de
 ### [🐍 Python OOP Reservation System](https://github.com/clr-techlead/python-oop-reservation-system)
 A business reservation system demonstrating Factory, Observer, and Strategy patterns, unit testing, CSV export, custom exceptions, and structured logging.
 
+### [📊 SLA Command Center](https://github.com/clr-techlead/sla-command-center)
+A Power BI executive dashboard for support case management, with a star-schema model, DAX measures, and an operational backlog/SLA-risk view.
+
 ## Core toolkit
 
 | Analytics & BI | Development & Quality |
