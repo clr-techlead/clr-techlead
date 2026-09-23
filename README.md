@@ -33,6 +33,9 @@ A business reservation system demonstrating Factory, Observer, and Strategy patt
 ### [📊 SLA Command Center](https://github.com/clr-techlead/sla-command-center)
 A Power BI executive dashboard for support case management, with a star-schema model, DAX measures, and an operational backlog/SLA-risk view.
 
+### [🛒 Contoso Retail SQL & BI](https://github.com/clr-techlead/contoso-retail-sql-bi)
+A SQL data model and Power BI dashboard for a multi-region electronics retailer, with a star-schema model, DAX measures, and executive sales storytelling.
+
 ## Core toolkit
 
 | Analytics & BI | Development & Quality |
